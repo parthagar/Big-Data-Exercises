@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CalcMaxTemp:jar">
+    <output-path>$PROJECT_DIR$/Module 3/CalcMaxTemp/out/artifacts/</output-path>
+    <root id="archive" name="CalcMaxTemp.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Module 3/CalcMaxTemp/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CalcMaxTemp" />
+    </root>
+  </artifact>
+</component>

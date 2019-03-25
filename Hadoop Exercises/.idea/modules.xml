@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module 3/AlphabetCount/AlphabetCount.iml" filepath="$PROJECT_DIR$/Module 3/AlphabetCount/AlphabetCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 3/CalcMaxTemp/CalcMaxTemp.iml" filepath="$PROJECT_DIR$/Module 3/CalcMaxTemp/CalcMaxTemp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 3/FindHotAndColdDays/FindHotAndColdDays.iml" filepath="$PROJECT_DIR$/Module 3/FindHotAndColdDays/FindHotAndColdDays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 3/NumberOfSubPatents/NumberOfSubPatents.iml" filepath="$PROJECT_DIR$/Module 3/NumberOfSubPatents/NumberOfSubPatents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 3/WordCount/WordCount1.iml" filepath="$PROJECT_DIR$/Module 3/WordCount/WordCount1.iml" />
+    </modules>
+  </component>
+</project>
